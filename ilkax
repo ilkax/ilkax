@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Research</title>
+ <style>
+ 
+ h2 { margin:50px; background-color:aqua;
+ }
+ 
+ h3{ margin:25px; background-color:skyblue;
+ }
+ 
+body {background-color:grey}
+{margin:50px;}
+
+h1{
+  color:red;
+  text-align:center;
+  }
+  
+ h3{
+  color:black;
+  text-align:left;
+  }
+ 
+ h3{
+   border-style:dotted;
+   border-width:15px;
+   border-color:black;
+ }
+ 
+  h2{
+    border-style: dashed;
+    border-width: 20px;
+    border-color:black;
+    text-align:center;
+  }
+  
+  </style>
+  <body>
+ 
+ <h1>Research</h1>
+ <h2><img src="https://vignette4.wikia.nocookie.net/meme/images/2/2d/Illuminati.png/revision/latest?cb=20161114204625" height="35%"  width="35%" a><div> This is my research</div></h2>
+
+<h3>Link test:
+<ul>
+  <li><a href= "https://www.youtube.com/">YouTube</a></li>
+</ul>
+</h3>
+  
+</body>
+</html>
